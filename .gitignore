@@ -1,0 +1,8 @@
+# Mac system file
+.DS_Store
+
+# Compiled binaries
+lru
+*.out
+*.exe
+
